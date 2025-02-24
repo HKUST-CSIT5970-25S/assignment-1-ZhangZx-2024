@@ -5,9 +5,9 @@
 
 ---
 
-### Name: 
-### Student Id: 
-### Email: 
+### Name: ZHANG, Zexuan
+### Student Id: 21094482
+### Email: zzhangjf@connect.ust.hk
 
 ---
 
